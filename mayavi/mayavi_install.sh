@@ -1,5 +1,5 @@
 #/bin/bash
 # Install Mayavi (scientific data visualization and plotting in Python) on Ubuntu
 # Ref: http://docs.enthought.com/mayavi/mayavi/installation.html
-sudo apt-get install python-vtk python-qt4 python-qt4-gl python-setuptools python-numpy python-configobj
-sudo pip install mayavi
+apt-get install python3-vtk python3-qt4 python3-qt4-gl python3-setuptools python3-numpy python3-configobj
+pip install mayavi
